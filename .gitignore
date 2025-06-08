@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Audio files (can be large)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg
+!data/input/.gitkeep
+
+# Output files
+data/output/*.txt
+data/output/*.json
+data/output/*.png
+data/output/*.html
+!data/output/.gitkeep
+
+# Model files (too large for git)
+models/*.pt
+models/*.onnx
+models/*.bin
+!models/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/

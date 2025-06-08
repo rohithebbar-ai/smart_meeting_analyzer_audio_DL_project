@@ -1,0 +1,42 @@
+# Core audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.9.0
+numpy>=1.21.0
+
+# Speech recognition and speaker identification
+openai-whisper>=20231117
+resemblyzer>=0.1.1
+
+# Machine learning and clustering
+scikit-learn>=1.1.0
+torch>=1.12.0
+torchaudio>=0.12.0
+
+# Audio utilities
+pydub>=0.25.1
+webrtcvad>=2.0.10
+
+# Visualization and analysis
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Data handling
+pandas>=1.4.0
+tqdm>=4.64.0
+
+# Optional: For Jupyter notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# File handling
+pathlib2>=2.3.7
+
+#NLP libraries
+pip install spacy>=3.7.0
+pip install nltk>=3.8.0
+pip install transformers>=4.20.0
+pip install keybert>=0.8.0
+pip install yake>=0.4.8
+pip install textstat>=0.7.0
