@@ -456,7 +456,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [rohit.hebbar.official@gmail.com](mailto:rohit.hebbar.official@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/smart-meeting-analyzer/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/smart-meeting-analyzer/discussions)
 - 📖 **Documentation**: [Project Wiki](https://github.com/yourusername/smart-meeting-analyzer/wiki)
